@@ -2,7 +2,7 @@
    CONFIG
    ============================ */
 const CONFIG = {
-  WEBHOOK_PROD: "https://n8n.srv1159833.hstgr.cloud/webhook/audit-agences-creatives?token=G0vWmW8cP3yZK7nqH1rT9xV5bQ2eJ6sL4uA8dF0hC7kN1pR",
+  WEBHOOK_PROD: "https://n8n.srv1159833.hstgr.cloud/webhook/audit-agences-creatives?token=alphanc_2026_VX7mP2kQ9rL4sT1wY6eN8hJ0cB3aD5fG",
   ALLOW_ORIGIN: "https://alpha-nc.github.io",
   INTERNAL_EMAIL: "agence.alphanc@gmail.com",
   CALENDLY_URL: "https://calendly.com/agence-alphanc/audit-decouverte",
