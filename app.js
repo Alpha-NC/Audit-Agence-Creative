@@ -2,8 +2,8 @@
    CONFIG
    ============================ */
 const CONFIG = {
-  WEBHOOK_PROD: "https://<N8N_DOMAIN>/webhook/audit-agences-creatives?token=<TOKEN>",
-  ALLOW_ORIGIN: "https://alpha-nc.github.io",
+  WEBHOOK_PROD: "https://n8n.srv1159833.hstgr.cloud/webhook/audit-agences-creatives?token=<TOKEN>",
+  ALLOW_ORIGIN: "https://alpha-nc.github.io/Audit-Agence-Creative/",
   INTERNAL_EMAIL: "agence.alphanc@gmail.com",
   CALENDLY_URL: "https://calendly.com/agence-alphanc/audit-decouverte",
   SITE_URL: "https://alpha-nc.github.io/",
