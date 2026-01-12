@@ -355,7 +355,7 @@ function renderConfirmPlaceholder() {
   info.className = "field";
   info.innerHTML = `
     <div class="label">Analyse</div>
-    <div class="muted">Cette page s'affiche uniquement après un envoi réussi.</div>
+    <div class="muted">Envoi du formulaire réussi.</div>
   `;
   el.stepBody.appendChild(info);
 }
