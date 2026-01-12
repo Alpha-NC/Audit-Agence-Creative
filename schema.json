@@ -1,13 +1,13 @@
 {
   "version": "1.2.0",
   "form_tag": "audit-agences-creatives",
-  "title": "Audit Automation — Agences Créatives B2B",
+  "title": "Audit IA — Agences Créatives B2B",
   "steps": [
     {
       "id": "intro",
       "page": 1,
       "type": "intro",
-      "title": "Audit Automation (3 minutes)",
+      "title": "Audit IA (3 minutes)",
       "subtitle": "Identifiez vos quick wins d'automatisation et votre ROI temps.",
       "bullets": [
         "Scoring opérationnel instantané",
@@ -357,7 +357,7 @@
           "type": "text",
           "label": "Nom de l'entreprise",
           "required": true,
-          "placeholder": "Ex : Mayoko",
+          "placeholder": "Ex : Blue Agency",
           "autocomplete": "organization"
         },
         {
